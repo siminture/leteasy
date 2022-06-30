@@ -8,7 +8,7 @@
     <artifactId>leteasy-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>leteasy-common</module>
+        <module>leteasy-commons</module>
         <module>leteasy-httpclient</module>
         <module>leteasy-jdbc</module>
     </modules>
